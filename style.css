@@ -118,8 +118,7 @@ nav ul li a.active,nav ul li a:hover{
 		display: none;
 	}
 	nav{
-		position: sticky;
-		top: 0;
+		position: fixed;
 	}
 	ul{
 		position: fixed;
