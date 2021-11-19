@@ -249,6 +249,10 @@ form{
 .form-control:not(:first-child){
 	margin-top: 20px;
 }
+.form-grid{
+	float: left;
+	width: 100%;
+}
 
 .name{
 	padding: 5px 0px;
